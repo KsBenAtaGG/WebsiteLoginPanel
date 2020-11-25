@@ -1,6 +1,6 @@
 # WebsiteLoginPanel
 
-- This repository is no copyright.
+- This HTML file is no copyright.
 
 - I writing this login panel
 
