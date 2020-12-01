@@ -4,4 +4,4 @@
 
 - I writing this login panel
 
-- Thank you for using my panel
+- Thanks for using my panel
