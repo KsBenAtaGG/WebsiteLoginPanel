@@ -11,3 +11,5 @@
 - Bootstrap 4 added.
 
 - The design is literally changed and modernized.
+
+- Responsive design.
