@@ -1,7 +1,13 @@
-# WebsiteLoginPanel
+# Website Login Panel Template
 
-- This HTML file is no copyright.
+- You can use freely
 
-- I writing this login panel
+- I wrote this login panel
 
 - Thanks for using my panel
+
+# Major Update
+
+- Bootstrap 4 added.
+
+- The design is literally changed and modernized.
